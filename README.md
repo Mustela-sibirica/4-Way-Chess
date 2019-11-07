@@ -4,7 +4,7 @@ A design for chess game of chess (western chess), 象棋 (Xiangqi, Chinese chess
 
 ## Board and Starting Position
 
-![board](https://raw.githubusercontent.com/Mustela-sibirica/4-Way-Chess/master/pic/board.jpg)
+![board](https://raw.githubusercontent.com/Mustela-sibirica/4-Way-Chess/master/pic/board.png)
 
 ## TODO
 
